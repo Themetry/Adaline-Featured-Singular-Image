@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Adaline Featured Singular Image
+ Theme URI:    https://github.com/Themetry/Adaline-Featured-Singular-Image
+ Description:  An Adaline child theme developed to demonstrate featured image support for singular pages. 
+ Author:       Themetry
+ Author URI:   https://themetry.com
+ Template:     adaline
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  adaline-featured-singular-image
+*/
+
+/* Adjust position of the singular image */
+
+.attachment-singular-image {
+	margin: 0 0 35px;
+}
